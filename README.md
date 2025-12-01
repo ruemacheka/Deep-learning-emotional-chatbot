@@ -307,13 +307,14 @@ Wolf et al. (2020). Transformers: State-of-the-art Natural Language Processing
 Paszke et al. (2019). PyTorch: An Imperative Style, High-Performance Deep Learning Library
 
 Citation for This Work
+
 If you use this project in your research, please cite:
-bibtex@software{mpofu2025emotionfusion,
+bibtex@software{Macheka2025emotionfusion,
   author = {Rujeko Macheka},
   title = {EmotionFusion EmpathyBot: Trimodal Emotion Recognition with Learned Attention-Based Fusion},
   year = {2025},
   publisher = {GitHub},
   url = {https://github.com/YOUR-USERNAME/EmotionFusion-EmpathyBot},
-  note = {Master's Project, Dallas Baptist University}
+
 }
 
